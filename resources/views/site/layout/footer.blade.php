@@ -15,7 +15,7 @@
                         <div class="elementor-image">
                             <a href="index.html" aria-label="Site Logo">
                                 <img width="125" height="28"
-                                    src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/02/logo_white.png"
+                                    src="{{ asset('assets/images/radar.png') }}"
                                     class="attachment-full size-full wp-image-436" alt="" /> </a>
                         </div>
                     </div>

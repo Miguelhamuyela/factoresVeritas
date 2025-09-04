@@ -428,7 +428,7 @@
                                     </svg> </button>
                                 <div class="wcf-nav-menu-container">
                                     <ul id="menu-mega-menu" class="wcf-nav-menu-nav menu-layout-horizontal">
-                                        <li id="menu-item-2143"
+                                        {{-- <li id="menu-item-2143"
                                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-2143">
                                             <a href="#" class="wcf-nav-item">Demo<span
                                                     class="wcf-submenu-indicator"><svg aria-hidden="true"
@@ -640,15 +640,18 @@
                                                     </ul>
                                                 </li>
                                             </ul>
+                                        </li> --}}
+                                        <li id="menu-item-2182"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2182">
+                                            <a href="#">Início</a>
                                         </li>
                                         <li id="menu-item-2182"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2182">
-                                            <a href="https://crowdytheme.com/wp/newsprint/political-news/about-us/"
-                                                class="wcf-nav-item">Sobre Nós</a>
+                                            <a href="#">Sobre Nós</a>
                                         </li>
                                         <li id="menu-item-2183"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2183">
-                                            <a href="#" class="wcf-nav-item">Categoria<span
+                                            <a href="#" class="wcf-nav-item">Multimédia<span
                                                     class="wcf-submenu-indicator"><svg aria-hidden="true"
                                                         class="e-font-icon-svg e-fas-angle-down" viewBox="0 0 320 512"
                                                         xmlns="../../../../www.w3.org/2000/svg.html">
@@ -660,23 +663,23 @@
                                                 <li id="menu-item-2184"
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2184">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">Análise</a>
+                                                        href="#">Imagens</a>
                                                 </li>
                                                 <li id="menu-item-2185"
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2185">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/asia/">Asia</a>
+                                                        href="#">Vídeo</a>
                                                 </li>
-                                                <li id="menu-item-2186"
+                                                {{-- <li id="menu-item-2186"
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2186">
                                                     <a
                                                         href="https://crowdytheme.com/wp/newsprint/political-news/category/europe/">Europa</a>
-                                                </li>
+                                                </li> --}}
                                             </ul>
                                         </li>
                                         <li id="menu-item-2177"
                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2177">
-                                            <a href="#" class="wcf-nav-item">Páginas<span
+                                            <a href="#" class="wcf-nav-item">Notícias<span
                                                     class="wcf-submenu-indicator"><svg aria-hidden="true"
                                                         class="e-font-icon-svg e-fas-angle-down" viewBox="0 0 320 512"
                                                         xmlns="../../../../www.w3.org/2000/svg.html">
@@ -688,26 +691,54 @@
                                                 <li id="menu-item-2220"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2220">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/author/admin/">Informação
-                                                        do Autor</a>
+                                                        href="#">Radar
+                                                        Nacional</a>
                                                 </li>
                                                 <li id="menu-item-2187"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2187">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/blog/">Blog</a>
+                                                    <a href="#">Radar
+                                                        Parlamentar</a>
                                                 </li>
                                                 <li id="menu-item-2221"
                                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2221">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/energy-security-and-the-us-australia-alliance/">Detalhes
-                                                        das Notícias</a>
+                                                        href="#">Radar
+                                                        Partidos</a>
+                                                </li>
+                                                <li id="menu-item-2221"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2221">
+                                                    <a
+                                                        href="#">Radar
+                                                        Executivo</a>
+                                                </li>
+                                                <li id="menu-item-2221"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2221">
+                                                    <a
+                                                        href="#">Radar
+                                                        Internacional</a>
+                                                </li>
+                                                <li id="menu-item-2221"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2221">
+                                                    <a
+                                                        href="#">Radar
+                                                        Eleitor</a>
+                                                </li>
+                                                <li id="menu-item-2221"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2221">
+                                                    <a
+                                                        href="#">Opinião</a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li id="menu-item-2181"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2181">
-                                            <a href="https://crowdytheme.com/wp/newsprint/political-news/contact-us/"
-                                                class="wcf-nav-item">Nos Contate</a>
+                                            <a href="#">Entrevistas da Semana
+                                            </a>
+                                        </li>
+                                        <li id="menu-item-2181"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2181">
+                                            <a href="#">Contacto
+                                            </a>
                                         </li>
                                     </ul><button class="wcf-menu-close" type="button"><svg aria-hidden="true"
                                             class="e-font-icon-svg e-fas-times" viewBox="0 0 352 512"

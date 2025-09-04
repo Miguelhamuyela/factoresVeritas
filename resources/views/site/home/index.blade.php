@@ -18,9 +18,9 @@
                                     class="wcf-post post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-elections category-europe category-podcast category-white-house">
                                     <div class="thumb wcf--format-">
                                         <img fetchpriority="high" decoding="async" width="1290" height="660"
-                                            src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp"
+                                            src="{{ asset('assets/images/JLO.jpeg') }}"
                                             class="attachment-full size-full wp-image-419" alt=""
-                                            srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-300x153.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-1024x524.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-768x393.webp 768w"
+                                            srcset="{{ asset('assets/images/JLO.jpeg') }}"
                                             sizes="(max-width: 1290px) 100vw, 1290px" />
                                     </div>
                                     <div class="content">
@@ -30,9 +30,8 @@
                                         </div>
                                         <h3 class="wcf-post-title">
                                             <a
-                                                href="https://crowdytheme.com/wp/newsprint/political-news/the-balancing-act-navigating-modern-polarization-3/">
-                                                <span class="highlight">O ato de equilíbrio</span> Navegando a polarização
-                                                moderna. </a>
+                                                href="#">
+                                                <span class="highlight">Presidente João Lourenço </span> uer um jovem como candidato do MPLA às próximas eleições gerais em Angola </a>
                                         </h3>
                                         <div class="wcf-post-meta">
                                             <span class="post-author">
@@ -220,7 +219,8 @@
                                                 <h3 class="wcf-post-title">
                                                     <a
                                                         href="https://crowdytheme.com/wp/newsprint/political-news/remarks-by-president-byden-during-the-first-session-of-the-g20-summit-increase-fanbase/">
-                                                        <span class="highlight">Remarcado pelo Presidente João Lorenço</span>
+                                                        <span class="highlight">Remarcado pelo Presidente João
+                                                            Lorenço</span>
                                                         a primeira sessão da Cimeira do G20
                                                         Aumentarbase. </a>
                                                 </h3>
