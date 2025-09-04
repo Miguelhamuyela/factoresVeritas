@@ -31,7 +31,7 @@
                                         <h3 class="wcf-post-title">
                                             <a
                                                 href="#">
-                                                <span class="highlight">Presidente João Lourenço </span> uer um jovem como candidato do MPLA às próximas eleições gerais em Angola </a>
+                                                <span class="highlight">Presidente João Lourenço </span> quer um jovem como candidato do MPLA às próximas eleições gerais em Angola </a>
                                         </h3>
                                         <div class="wcf-post-meta">
                                             <span class="post-author">
