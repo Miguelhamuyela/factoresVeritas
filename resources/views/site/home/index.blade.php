@@ -1238,12 +1238,10 @@
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="#">Política</a>
+                                                    <a class="aae-cat-analysis" href="#">Política</a>
                                                 </div>
                                                 <h2 class="wcf-post-title">
-                                                    <a
-                                                        href="#">
+                                                    <a href="#">
                                                         <span class="highlight">MPLA quer mais dinamismo na campanha de
                                                             inscrição</span></a>
                                                 </h2>
@@ -1269,21 +1267,18 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img loading="lazy" decoding="async" width="1290"
-                                                        height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F.webp"
+                                                        height="800" src="{{ asset('assets/images/assumir.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1963" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/assumir.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">Política</a>
+                                                    <a class="aae-cat-analysis" href="#">Política</a>
                                                 </div>
                                                 <h2 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/what-trumps-second-term-means-for-australia-interview-with-bruce-wolpe/">
-                                                        <span class="highlight">O que segundo mandato de Trump</span>
-                                                        para a Austrália, entrevista com Bruce Wolpe </a>
+                                                    <a href="#">
+                                                        <span class="highlight">Angola volta a assumir a presidência do
+                                                            Conselho de Paz e Segurança da UA</span></a>
                                                 </h2>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -1308,20 +1303,19 @@
                                                 <div class="thumb wcf--format-">
                                                     <img loading="lazy" decoding="async" width="1290"
                                                         height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q.webp"
+                                                        src="{{asset('assets/images/desporto.jpeg')}}"
                                                         class="attachment-full size-full wp-image-1984" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-768x476.webp 768w"
+                                                        srcset="{{asset('assets/images/desporto.jpeg')}} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
                                                     <a class="aae-cat-asia"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/asia/">Asia</a>
+                                                        href="#">Desporto</a>
                                                 </div>
                                                 <h2 class="wcf-post-title">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/trumps-foreign-policy-agenda-like-it-or-not/">
-                                                        <span class="highlight">Trump&#8217;s foreign policy
-                                                            agenda, like</span> it or not </a>
+                                                        href="#">
+                                                        <span class="highlight">UNITEL oferece dez milhões de kwanzas à Selecção Nacional de Basquetebol</span></a>
                                                 </h2>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
