@@ -18,9 +18,9 @@
                                     class="wcf-post post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-elections category-europe category-podcast category-white-house">
                                     <div class="thumb wcf--format-">
                                         <img fetchpriority="high" decoding="async" width="1290" height="660"
-                                            src="{{ asset('assets/images/JLO.jpeg') }}"
+                                            src="{{ asset('assets/images/JLO.png') }}"
                                             class="attachment-full size-full wp-image-419" alt=""
-                                            srcset="{{ asset('assets/images/JLO.jpeg') }}"
+                                            srcset="{{ asset('assets/images/JLO.png') }}"
                                             sizes="(max-width: 1290px) 100vw, 1290px" />
                                     </div>
                                     <div class="content">
@@ -29,9 +29,9 @@
                                                 href="https://crowdytheme.com/wp/newsprint/political-news/category/elections/">eleições</a>
                                         </div>
                                         <h3 class="wcf-post-title">
-                                            <a
-                                                href="#">
-                                                <span class="highlight">Presidente João Lourenço </span> quer um jovem como candidato do MPLA às próximas eleições gerais em Angola </a>
+                                            <a href="#">
+                                                <span class="highlight">Presidente João Lourenço </span> quer um jovem como
+                                                candidato do MPLA às próximas eleições gerais em Angola </a>
                                         </h3>
                                         <div class="wcf-post-meta">
                                             <span class="post-author">
