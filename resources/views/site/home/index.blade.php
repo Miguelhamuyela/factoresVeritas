@@ -18,9 +18,9 @@
                                     class="wcf-post post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-elections category-europe category-podcast category-white-house">
                                     <div class="thumb wcf--format-">
                                         <img fetchpriority="high" decoding="async" width="1290" height="660"
-                                            src="{{ asset('assets/images/JLO.png') }}"
+                                            src="{{ asset('assets/images/JLO.webp') }}"
                                             class="attachment-full size-full wp-image-419" alt=""
-                                            srcset="{{ asset('assets/images/JLO.png') }}"
+                                            srcset="{{ asset('assets/images/JLO.webp') }}"
                                             sizes="(max-width: 1290px) 100vw, 1290px" />
                                     </div>
                                     <div class="content">
