@@ -206,23 +206,19 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img decoding="async" width="1290" height="860"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newB.webp"
+                                                        src="{{ asset('assets/images/mundo.jpeg') }}"
                                                         class="attachment-full size-full wp-image-420"
                                                         alt="Remarks by president byden during the first session of the G20 summit increase fanbase."
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newB.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newB-300x200.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newB-1024x683.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newB-768x512.webp 768w"
+                                                        srcset="{{ asset('assets/images/mundo.jpeg') }}"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-europe"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/europe/">Europe</a>
+                                                    <a class="aae-cat-europe" href="#">Mundo</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/remarks-by-president-byden-during-the-first-session-of-the-g20-summit-increase-fanbase/">
-                                                        <span class="highlight">Remarcado pelo Presidente João
-                                                            Lorenço</span>
-                                                        a primeira sessão da Cimeira do G20
-                                                        Aumentarbase. </a>
+                                                    <a href="#">
+                                                        <span class="highlight">Ataque bombista</span>
+                                                        no Paquistão causa pelo menos 11 mortos </a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -246,21 +242,19 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img fetchpriority="high" decoding="async" width="1290"
-                                                        height="660"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp"
+                                                        height="660" src="{{ asset('assets/images/JLO.webp') }}"
                                                         class="attachment-full size-full wp-image-419" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-300x153.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-1024x524.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-768x393.webp 768w"
+                                                        srcset="{{ asset('assets/images/JLO.webp') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-300x153.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-1024x524.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-768x393.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-elections"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/elections/">eleições</a>
+                                                    <a class="aae-cat-elections" href="#">eleições</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/the-balancing-act-navigating-modern-polarization-3/">
-                                                        <span class="highlight">O ato de equilibro navegando
-                                                            polarização</span> moderna. </a>
+                                                    <a href="#">
+                                                        <span class="highlight"> Presidente João Lourenço </span> quer um
+                                                        jovem como
+                                                        candidato do MPLA às próximas eleições gerais em Angola </a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -284,20 +278,18 @@
 
                                                 <div class="thumb wcf--format-audio">
                                                     <img decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K.webp"
+                                                        src="{{ asset('assets/images/real.jpeg') }}"
                                                         class="attachment-full size-full wp-image-2001" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/real.jpeg') }}"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                    <a class="aae-cat-analysis" href="#">Política</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/former-trump-admin-official-on-technology-energy-and-competition-with-china/">
-                                                        <span class="highlight">Ex-Trump Admin Oficial
-                                                            sobre</span> tecnologia, energia e competição com a China</a>
+                                                    <a href="#">
+                                                        <span class="highlight">Membro da Família Real </span> do Qatar
+                                                        recebido no Palácio Presidencial</a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -321,20 +313,18 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img loading="lazy" decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F.webp"
+                                                        src="{{ asset('assets/images/economia.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1963" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/economia.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-F-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                    <a class="aae-cat-analysis" href="#">Economia</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/what-trumps-second-term-means-for-australia-interview-with-bruce-wolpe/">
-                                                        <span class="highlight">O que segundo mandato de Trump</span>
-                                                        para a Austrália, entrevista com Bruce Wolpe </a>
+                                                    <a href="#">
+                                                        <span class="highlight">Certificação internacional</span>
+                                                        da Honesus projecta economia nacional </a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -358,20 +348,18 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img loading="lazy" decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q.webp"
+                                                        src="{{ asset('assets/images/entrevista.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1984" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/entrevista.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-Q-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-asia"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/asia/">Asia</a>
+                                                    <a class="aae-cat-asia" href="#">Entrevista</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/trumps-foreign-policy-agenda-like-it-or-not/">
-                                                        <span class="highlight">Trump&#8217;s foreign policy
-                                                            agenda, like</span> it or not </a>
+                                                    <a href="#">
+                                                        <span class="highlight">“O professor é a base do sistema
+                                                            educativo”</span></a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -395,20 +383,18 @@
 
                                                 <div class="thumb wcf--format-audio">
                                                     <img loading="lazy" decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N.webp"
+                                                        src="{{ asset('assets/images/ministro.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1995" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/ministro.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-N-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                    <a class="aae-cat-analysis" href="#">Política</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/energy-security-and-the-us-australia-alliance/">
-                                                        <span class="highlight">Energy security and the
-                                                            US-Australia</span> alliance </a>
+                                                    <a href="#">
+                                                        <span class="highlight">Ministro destaca papel das
+                                                            telecomunicações</span></a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -432,20 +418,18 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img loading="lazy" decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G.webp"
+                                                        src="{{ asset('assets/images/cultura.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1965" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/cultura.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-G-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                    <a class="aae-cat-analysis" href="#">Cultura</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/ussc-briefing-room-three-years-of-war-in-ukraine/">
-                                                        <span class="highlight">USSC Briefing Room |
-                                                            Three</span> years of war in Ukraine </a>
+                                                    <a href="#">
+                                                        <span class="highlight">Yuri da Cunha aposta no mercado
+                                                            digital</span></a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -469,20 +453,18 @@
 
                                                 <div class="thumb wcf--format-audio">
                                                     <img loading="lazy" decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L.webp"
+                                                        src="{{ asset('assets/images/mpla.jpeg') }}"
                                                         class="attachment-full size-full wp-image-1999" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/mpla.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-L-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
-                                                    <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                    <a class="aae-cat-analysis" href="#">Política</a>
                                                 </div>
                                                 <h3 class="wcf-post-title">
-                                                    <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/ai-disinformation-and-the-us-presidential-election/">
-                                                        <span class="highlight">AI, disinformation and the
-                                                            US</span> presidential election </a>
+                                                    <a href="#">
+                                                        <span class="highlight">MPLA quer mais dinamismo na campanha de
+                                                            inscrição</span></a>
                                                 </h3>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -561,7 +543,7 @@
 
                                         <h3 class="elementor-icon-box-title">
                                             <span>
-                                                Popular Story </span>
+                                                Histórias Populares </span>
                                         </h3>
 
 
@@ -580,7 +562,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="wcf__btn icon-position-after">
                                         <a href="#" class="wcf-btn-default btn-hover-none">
-                                            Watch All </a>
+                                            Assistir Tudo </a>
                                     </div>
                                 </div>
                             </div>
@@ -1088,7 +1070,7 @@
 
                                     <h3 class="elementor-icon-box-title">
                                         <span>
-                                            Popular Article </span>
+                                            Artigos Polulares </span>
                                     </h3>
 
 
@@ -1212,10 +1194,9 @@
 
                                                 <div class="thumb wcf--format-">
                                                     <img fetchpriority="high" decoding="async" width="1290"
-                                                        height="660"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp"
+                                                        height="660" src="{{ asset('assets/images/JLO.webp') }}"
                                                         class="attachment-full size-full wp-image-419" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-300x153.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-1024x524.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-768x393.webp 768w"
+                                                        srcset="{{ asset('assets/images/JLO.webp') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-300x153.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-1024x524.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/01/political-newA-768x393.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
@@ -1225,8 +1206,9 @@
                                                 <h2 class="wcf-post-title">
                                                     <a
                                                         href="https://crowdytheme.com/wp/newsprint/political-news/the-balancing-act-navigating-modern-polarization-3/">
-                                                        <span class="highlight">O ato de equilibro navegando
-                                                            polarização</span> moderna. </a>
+                                                        <span class="highlight"> Presidente João Lourenço </span> quer um
+                                                        jovem como
+                                                        candidato do MPLA às próximas eleições gerais em Angola </a>
                                                 </h2>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -1250,20 +1232,20 @@
 
                                                 <div class="thumb wcf--format-audio">
                                                     <img decoding="async" width="1290" height="800"
-                                                        src="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K.webp"
+                                                        src="{{ asset('assets/images/mpla.jpeg') }}"
                                                         class="attachment-full size-full wp-image-2001" alt=""
-                                                        srcset="https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K.webp 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-768x476.webp 768w"
+                                                        srcset="{{ asset('assets/images/mpla.jpeg') }} 1290w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-300x186.webp 300w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-1024x635.webp 1024w, https://crowdytheme.com/wp/newsprint/political-news/wp-content/uploads/sites/10/2025/06/Political-News-K-768x476.webp 768w"
                                                         sizes="(max-width: 1290px) 100vw, 1290px" />
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
                                                     <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                        href="#">Política</a>
                                                 </div>
                                                 <h2 class="wcf-post-title">
                                                     <a
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/former-trump-admin-official-on-technology-energy-and-competition-with-china/">
-                                                        <span class="highlight">Ex-Trump Admin Oficial
-                                                            sobre</span> tecnologia, energia e competição com a China </a>
+                                                        href="#">
+                                                        <span class="highlight">MPLA quer mais dinamismo na campanha de
+                                                            inscrição</span></a>
                                                 </h2>
                                                 <div class="wcf-post-meta">
                                                     <span class="post-author">
@@ -1295,7 +1277,7 @@
                                                 </div>
                                                 <div class="wcf-post-taxonomy">
                                                     <a class="aae-cat-analysis"
-                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">análise</a>
+                                                        href="https://crowdytheme.com/wp/newsprint/political-news/category/analysis/">Política</a>
                                                 </div>
                                                 <h2 class="wcf-post-title">
                                                     <a
